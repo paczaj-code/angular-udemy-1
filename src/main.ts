@@ -14,7 +14,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
     <strong>piap</strong>
     <br/>
     <a target="_blank" href="https://angular.io/start">
-      Learn more about Angular 222
+      Learn more about Angular 2223333
     </a>
   `,
 })
