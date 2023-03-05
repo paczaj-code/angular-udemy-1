@@ -8,9 +8,13 @@ import { bootstrapApplication } from '@angular/platform-browser';
   standalone: true,
   imports: [CommonModule],
   template: `
-    <h>Hello from duspko {{name}}!</h1>
+    <h1>Hello from duspko {{name}}!
+    
+    </h1>
+    <strong>piap</strong>
+    <br/>
     <a target="_blank" href="https://angular.io/start">
-      Learn more about Angular 
+      Learn more about Angular 222
     </a>
   `,
 })
